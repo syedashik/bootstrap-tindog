@@ -1,1 +1,1 @@
-# cv-bootstrap
+# tindog-bootstrap
